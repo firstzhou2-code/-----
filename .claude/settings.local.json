@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git merge *)"
+      "Bash(git merge *)",
+      "Bash(ping *)",
+      "Bash(curl *)",
+      "Bash(netsh winhttp *)",
+      "Bash(nslookup *)"
     ]
   }
 }
